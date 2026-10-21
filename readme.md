@@ -2,7 +2,7 @@
 
 **Author:** Ernelaine A. Sapugay  
 **Section:** BSIS 3-C  
-**Activity:** Final Portfolio
+**Activity:** Midterm Portfolio
 
 ## Repository Overview
 
